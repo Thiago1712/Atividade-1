@@ -1,0 +1,32 @@
+h1 {
+
+}
+img { 
+
+    width: 200px;
+    height: 200px;
+}.Time{
+   display: grid;
+    grid-template-columns: 1f 2fr;
+    gap: 200px;
+    margin-left: 40px;
+}
+.Real_Madrid{
+    display: grid;
+    grid-template-columns: 1f 2fr;
+    gap: 200px;
+    margin-left: 40px;
+}
+.container { background-color: aqua;
+    margin-left: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.mama {
+   
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}
+.kevin{
+   
+}
